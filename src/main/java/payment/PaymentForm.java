@@ -2,7 +2,6 @@ package payment;
 
 public class PaymentForm {
     public static void main(String[] args) {
-        // Example usage
         processPayment("John Doe", 49.99);
     }
 
